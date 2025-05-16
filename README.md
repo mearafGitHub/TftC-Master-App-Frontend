@@ -5,20 +5,23 @@
 **URL**: https://www.toolsforthecommons.com/
 
 ## User Dashboard 
-<img width="1464" alt="users-dash" src="https://github.com/user-attachments/assets/e063f578-81fc-4069-937d-c829575fb0fe" />
 
-<img width="1470" alt="Screenshot 2025-05-16 at 2 15 03 AM" src="https://github.com/user-attachments/assets/4ed026d3-0a67-4b64-8c95-7a3eff22df8b" />
+Create a user account to log in
+<img width="1464" alt="users-dash" src="https://github.com/user-attachments/assets/dc15181c-d7a8-447f-9080-eec66b3b120f" />
+
+<img width="1470" alt="User-setting" src="https://github.com/user-attachments/assets/493598fd-ad67-44b6-8729-4e0714b9c75b" />
 
 
 ## Admin Dashboard
+Log in info, email: admin@tftc.com, password: admin123
 
 ### User statistics tab
-
-<img width="1467" alt="admin-dash-users" src="https://github.com/user-attachments/assets/2c6d7f4f-05bf-4007-9840-64f883aaffd3" />
-
+<img width="1467" alt="admin-dash-users" src="https://github.com/user-attachments/assets/702c4d10-abdd-4682-b88b-00d9f2feb231" />
 
 ### General Admin Dashboard 
-<img width="1467" alt="admin dash-gen" src="https://github.com/user-attachments/assets/6a1c4de5-48b0-4331-a069-7dbcd46791a9" />
+<img width="1467" alt="admin dash-gen" src="https://github.com/user-attachments/assets/9d586a1d-5d5a-4dc5-9ba9-26736e780098" />
+
+
 
 
 
