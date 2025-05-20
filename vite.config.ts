@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
 import path from "path";
-import { componentTagger } from "lovable-tagger";
+
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
@@ -11,8 +11,15 @@ export default defineConfig(({ mode }) => ({
   },
   plugins: [
     react(),
-    mode === 'development' &&
-    componentTagger(),
+    {
+      name: "vite-plugin-react",
+      transform(code: string, id: string) {
+        if (id.endsWith(".tsx") || id.endsWith(".jsx")) {
+          return code.replace(/import React from 'react';/g, "");
+        }
+        return code;
+      },
+    },
   ].filter(Boolean),
   resolve: {
     alias: {
