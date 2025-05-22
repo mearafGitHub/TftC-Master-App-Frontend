@@ -25,9 +25,9 @@ Log in info, email: admin@tftc.com, password: admin123
 
 ### Development
 
-If you want to work locally using your own IDE, you can clone this repo and push changes;
-The only requirement is having Node.js & npm installed (LTS versions recommended), then 
-Follow these steps:
+If you want to work locally using your own IDE, you can clone this repo and push changes.
+- The only pre-requirement is having Node.js & npm installed (LTS versions recommended) 
+- Follow these steps:
 
 ```sh
 # Step 1: Clone the Master Portal TftC repository using the project's Git URL.
