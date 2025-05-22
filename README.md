@@ -30,7 +30,7 @@ If you want to work locally using your own IDE, you can clone this repo and push
 - Follow these steps:
 
 ```sh
-# Step 1: Open your local terminal in your prefered directory (builtin terminal or VS Code terminal)
+# Step 1: Open your terminal in your prefered directory (builtin terminal or VS Code terminal).
 # Step 2: Clone the TftC-Master-App-Frontend repository using the project's Git URL as follows.
 git clone https://github.com/mearafGitHub/TftC-Master-App-Frontend.git
 
