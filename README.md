@@ -26,6 +26,7 @@ Log in info, email: admin@tftc.com, password: admin123
 
 
 If you want to work locally using your own IDE, you can clone this repo and push changes;
+The only requirement is having Node.js & npm installed (LTS versions recommended), then 
 Follow these steps:
 
 ```sh
