@@ -25,18 +25,15 @@ Log in info, email: admin@tftc.com, password: admin123
 
 
 
-If you want to work locally using your own IDE, you can clone this repo and push changes.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
+If you want to work locally using your own IDE, you can clone this repo and push changes;
 Follow these steps:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone Master Portal TftC
+# Step 1: Clone the Master Portal TftC repository using the project's Git URL.
+git clone https://github.com/mearafGitHub/TftC-Master-App-Frontend.git
 
 # Step 2: Navigate to the project directory.
-cd Master Portal TftC
+cd TftC-Master-App-Frontend
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -44,7 +41,10 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 
-# Used AI for faster kickstart - its can help with active checking.
+# To build the project.
+npm run build
+
+# Used AI for faster kickstart - along with active co-development.
 ```
 
 
