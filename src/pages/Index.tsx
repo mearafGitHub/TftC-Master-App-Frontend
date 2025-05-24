@@ -11,10 +11,10 @@ const Index = () => {
       </div>
       <div className="max-w-3xl w-full space-y-8">
         <div className="space-y-4">
-          <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">TftC Master Portal</h1>
-          <p className="text-xl text-muted-foreground font-medium">Master Portal for the products of Tools for the Commons</p>
+          <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">Tools For The Commons</h1>
+          <p className="text-xl text-muted-foreground font-medium italic">Your door way to the Network</p>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            A unified platform providing authenticated access to the zones and portals built by TftC.
+          A master portal providing authenticated access to digital zones, interoperable payments, and an integrated social layer.
           </p>
         </div>
         
