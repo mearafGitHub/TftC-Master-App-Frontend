@@ -15,14 +15,14 @@ const Login = () => {
         {/* Welcome Message */}
         <div className="w-full md:w-1/2 space-y-6 text-center md:text-left animate-in">
           <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">
-            Welcome to TftC Master Portal
+            Welcome to Tools for the Commons
           </h1>
           <p className="text-xl text-muted-foreground">
-          Your unified platform providing authenticated access to ditial zones and portals built by TftC Tools for the Commons
+            Your master portal providing authenticated access to digital zones, interoperable payments, and an integrated social layer.
           </p>
           <div className="bg-baground backdrop-blur-sm border border-primary/10">
             <p className="text-xl">
-              Sign in to access your applications and services.
+              Sign in to access our applications.
             </p>
           </div>
         </div>
