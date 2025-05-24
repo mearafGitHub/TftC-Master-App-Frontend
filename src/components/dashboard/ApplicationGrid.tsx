@@ -21,20 +21,21 @@ const applications = [
   },
   {
     id: 3,
-    title: "Amazonia",
-    description: "Brazil's first Digital Zone for bio-economy",
+    title: "Mata",
+    description: "A digital free zone for conscious innovation in Rio",
     icon: <TreeDeciduous className="h-6 w-6" />,
     url: "https://www.toolsforthecommons.com/#solutions",
     highlight: false,
   },
   {
     id: 4,
-    title: "Cyprus",
-    description: "Digital framework intersecting the EU, Middle East, and North Africa",
-    icon: <Combine className="h-6 w-6" />,
+    title: "Digital Zone Florianópolis",
+    description: "A zone in Brazil designed to attract digital businesses",
+    icon: <TreeDeciduous className="h-6 w-6" />,
     url: "https://www.toolsforthecommons.com/#solutions",
     highlight: false,
   },
+ 
 ];
 
 const ApplicationGrid = () => {

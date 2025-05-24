@@ -26,13 +26,12 @@ const Dashboard = () => {
           <CardHeader>
             <CardTitle className="text-2xl">Welcome, {userName}</CardTitle>
             <CardDescription>
-              Access and launch the digital zones from this dashboard
+              Access digital zones from this dashboard
             </CardDescription>
           </CardHeader>
           <CardContent>
             <p className="text-muted-foreground">
-              Click on any of the digital zones applications from the list to launch it in a new tab.
-              Each application will open in its own window, allowing you to work seamlessly across multiple tools.
+            Here, you’ll find all our digital zone nodes, where you can register legal personas and digital IDs, claim taxes, and operate within each zone. Each application will launch in its own window, allowing you to work seamlessly across multiple tools.
             </p>
           </CardContent>
         </Card>
