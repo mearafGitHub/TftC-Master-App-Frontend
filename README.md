@@ -1,8 +1,6 @@
 # Tools for the Commons Master App
 
-## Project info
-
-**URL**: https://www.toolsforthecommons.com/
+**Demo Link**: https://tftc-master-app.vercel.app/
 
 ## User Dashboard 
 
